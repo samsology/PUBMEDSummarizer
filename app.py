@@ -28,3 +28,6 @@ if st.button("Summarize"):
                 st.error(f"❌ No abstract found for PubMed ID: {pmid}")
     else:
         st.warning("Please enter a valid PubMed ID.")
+
+st.markdown("---")
+st.markdown("Built by Samuel Johnson | 3MTT Kaduna | Data Analytics Track")
