@@ -9,7 +9,7 @@ st.write("Enter a **PubMed ID** to generate a summary of its abstract.")
 # Load abstracts (cached)
 @st.cache_data
 def load_data():
-    return load_abstracts("papers.txt")
+    return load_abstracts("dev.txt")
 
 df = load_data()
 
