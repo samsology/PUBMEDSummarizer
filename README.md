@@ -4,7 +4,7 @@ A simple and elegant web app that summarizes biomedical research abstracts based
 
 ## 🚀 Demo
 
-Try it here: [https://researchpapersummarizer.streamlit.app](https://pubmedsummarizer.streamlit.app)
+Try it here: [https://pubmedsummarizer.streamlit.app](https://pubmedsummarizer.streamlit.app)
 
 ## 📁 Dataset
 
