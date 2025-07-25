@@ -45,6 +45,8 @@ To run this project locally:
 git clone https://github.com/JohnsonSamuel/pubmedsummarizer.git
 cd researchpapersummarizer
 
+---
+
 🔧 Project Structure
 
 researchpapersummarizer/
@@ -56,10 +58,13 @@ researchpapersummarizer/
 ├── README.md              # Project documentation
 └── .gitignore
 
+---
 
 🤝 Team
 1. Johnson Samuel – https://www.linkedin.com/in/samuel-johnson-766b2a337/
 2. Kuburah Otaru – https://www.linkedin.com/in/kuburat-otaru/
+   
+---
 
 📌 Roadmap
  Build prototype with offline dataset
@@ -73,6 +78,8 @@ researchpapersummarizer/
  Enable batch summarization
 
  Add keyword/tag extraction feature
+
+---
 
  📢 Acknowledgments
  
