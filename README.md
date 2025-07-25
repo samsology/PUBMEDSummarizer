@@ -58,8 +58,8 @@ researchpapersummarizer/
 
 
 🤝 Team
-Johnson Samuel – https://www.linkedin.com/in/samuel-johnson-766b2a337/
-Kuburah Otaru – https://www.linkedin.com/in/kuburat-otaru/
+1. Johnson Samuel – https://www.linkedin.com/in/samuel-johnson-766b2a337/
+2. Kuburah Otaru – https://www.linkedin.com/in/kuburat-otaru/
 
 📌 Roadmap
  Build prototype with offline dataset
